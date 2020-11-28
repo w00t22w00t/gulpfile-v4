@@ -1,3 +1,3 @@
-# gulpfile-v4
-npm i
-gulp --tasks
+# gulpfile-v4;
+npm i;
+gulp --tasks;
